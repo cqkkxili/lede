@@ -9,9 +9,9 @@
 
 name: 玩家大院newifi3.更换固件平台
 on:
-  push:
-    branches: 
-      - master
+  # push:
+  #   branches: 
+  #     - master
   # schedule:
   #   - cron: 0 20 * * *
   # release:
